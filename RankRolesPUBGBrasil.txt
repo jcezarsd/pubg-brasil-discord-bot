@@ -1,0 +1,63 @@
+Bronze
+
+!conf set pubgStats.bronzeFpp 473856479955255296
+!conf set pubgStats.bronzeTpp 313696342654451713
+
+
+Prata
+
+!conf set pubgStats.prataFpp 473856681684631573
+
+!conf set pubgStats.prataTpp 353022983259815938
+
+
+
+Ouro
+
+!conf set pubgStats.ouroFpp 473857139811811335
+!conf set pubgStats.ouroTpp 353022866809290752 
+
+
+
+Platina
+
+!conf set pubgStats.platinaFpp 473857212406562836
+!conf set pubgStats.platinaTpp 353022729915465728
+
+
+Diamante
+
+!conf set pubgStats.diamanteFpp 473857507450814484
+!conf set pubgStats.diamanteTpp 353022406446546944
+
+Mestre
+
+!conf set pubgStats.mestreFpp 473857805556908034
+!conf set pubgStats.mestreTpp 353022109150085133
+
+
+Grandmaster
+
+!conf set pubgStats.grandmasterFpp 513195074000257028
+!conf set pubgStats.grandmasterTpp 513194757296619551
+
+Desafiante
+
+!conf set pubgStats.desafianteFpp 473858152413265920
+!conf set pubgStats.desafianteTpp 313742872530911232
+
+Rank Chat
+
+!conf set pubgStats.rankChat 357914336187908097
+
+Season
+!conf set pubgStats.season division.bro.official.pc-2018-02
+
+MOD
+!conf set mod.modlog 354723398225625088
+!conf set mod.chatBan 336644581603016715
+!conf set mod.adminRole 296083724062294027
+!conf set mod.flagRole 426443538889310209
+!conf set mod.modRole 296083056802922496
+!conf set mod.muterole 362311285620211734
+!conf set mod.staffRole 353753094875512843

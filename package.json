@@ -1,0 +1,27 @@
+{
+  "name": "pomocnik",
+  "version": "0.1.0",
+  "description": "A Discord bot for the PUBG-Brasil server written with Klasa.",
+  "scripts": {
+    "test": "eslint src",
+    "start": "node --no-deprecation src/index.js",
+    "debug": "node --inspect src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Julio Diniz",
+  "devDependencies": {
+    "eslint": "7.1.0"
+  },
+  "dependencies": {
+    "discord.js": "12.2.0",
+    "klasa": "0.5.0",
+    "lodash": "4.17.15",
+    "moment": "2.26.0",
+    "pubg-royale": "2.1.1",
+    "rethinkdbdash": "2.3.31",
+    "snekfetch": "4.0.4"
+  }
+}
